@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kevin21jin
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning Financial Analysis and Risk Management at University of Waterloo
+- 👀 I’m interested in soccer, e-sports, architecture, and music
+- 🌱 I’m currently a Computer Science student at University of Waterloo
