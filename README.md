@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @kevin21jin
-- 👀 I’m interested in soccer, e-sports, architecture, and music
+- 👀 I’m interested in soccer, e-sports, architecture, music, and Minecraft
 - 🌱 I’m currently a Computer Science student at University of Waterloo
