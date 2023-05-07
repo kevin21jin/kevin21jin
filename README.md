@@ -6,6 +6,11 @@
 - 📫 Reach me at **k24jin@uwaterloo.ca**
 - 🏠 Visit my personal website at **[kevinjin.netlify.app](kevinjin.netlify.app)**
 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin21jin&show_icons=true&locale=en" alt="kevin21jin" width="500"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin21jin&" alt="kevin21jin" width="500"/></p>
+
 <h3 align="left">Languages:</h3>
 <p align="left">
 	<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -51,7 +56,3 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin21jin&show_icons=true&locale=en" alt="kevin21jin" width="500"/></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin21jin&" alt="kevin21jin" width="500"/></p>
