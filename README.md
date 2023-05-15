@@ -7,7 +7,7 @@
 - 🏠 Visit my personal website at **[kevinjin.netlify.app](kevinjin.netlify.app)**
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin21jin&show_icons=true&locale=en" alt="kevin21jin" width="500"/></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kevin21jin&show_icons=true&locale=en" alt="kevin21jin" width="500"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevin21jin&" alt="kevin21jin" width="500"/></p>
 
