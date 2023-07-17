@@ -28,7 +28,7 @@
 <p align="left">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-    <a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://cncf-branding.netlify.app/img/projects/grpc/icon/color/grpc-icon-color.svg" alt="django" width="55" height="40"/> </a>
+    <a href="https://grpc.io/" target="_blank" rel="noreferrer"> <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC"  height="40"/> </a>
     <a href="https://gin-gonic.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" height="40"/> </a>
     <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
