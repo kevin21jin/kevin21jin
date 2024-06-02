@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">A third-year CS student at the University of Waterloo 💻</h3>
+<h3 align="center">A fourth-year CS student at the University of Waterloo 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevin21jin&label=Profile%20views&color=0e75b6&style=flat" alt="kevin21jin" /> </p>
 
